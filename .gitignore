@@ -1,0 +1,4 @@
+data/*.npy
+data/dataset
+data/*.pickle
+__pycache__
